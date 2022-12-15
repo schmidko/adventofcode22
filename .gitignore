@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/
+/build/
+/test.js
+/yarn-error.log
+*.DS_Store
+/**/*.DS_Store
+/ansible/deploy_app.retry
+/test.json

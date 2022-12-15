@@ -1,0 +1,17 @@
+{
+    "name": "moo",
+    "version": "0.1.0",
+    "private": true,
+    "main": "src/main.js",
+    "dependencies": {
+        "axios": "^0.18.1",
+        "commander": "^2.20.3",
+        "fs-extra": "^5.0.0",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1"
+    },
+    "scripts": {
+        "start": ""
+    },
+    "license": "MIT"
+}
